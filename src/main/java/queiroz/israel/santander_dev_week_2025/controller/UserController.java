@@ -1,6 +1,5 @@
 package queiroz.israel.santander_dev_week_2025.controller;
 
-import jakarta.servlet.Servlet;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
